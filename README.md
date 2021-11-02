@@ -66,6 +66,7 @@ path as your binary, it will be autodetected and you could run by just calling i
 | quota-cost | /api/accounts_mgmt/v1/organizations/{orgId}/quota_cost | GET |
 | resource-review | /api/authorizations/v1/resource_review | POST |
 | cluster-authorizations | /api/accounts_mgmt/v1/cluster_authorizations | POST |
+| certificates | /api/accounts_mgmt/v1/certificates | POST |
 |--|--|--|
 
 ## Config file
